@@ -7,5 +7,5 @@ function calcularMedia(nota1, nota2) {
 let media = calcularMedia(8, 7);
 
 // Imprime resultado
-console.log("A média do aluno é:", media);
+console.log("A média do aluno é:", media, "- Alteração da Giovanna, eu mesma.");
 console.log("Alteração feita pela Giovanna, eu mesma.");
